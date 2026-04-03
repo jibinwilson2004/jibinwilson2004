@@ -158,9 +158,13 @@
 <h3 align="center">☕ Support Me</h3>
 
 <div align="center">
+  <p>If you find my projects helpful or just want to support my work, feel free to buy me a coffee! ✨</p>
   <a href="https://www.buymeacoffee.com/jibinwilson2004">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=jibinwilson2004&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" width="220" alt="Buy Me A Coffee Badge" />
   </a>
+  <br><br>
+  <!-- Dynamic QR Code for Buy Me A Coffee link -->
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.buymeacoffee.com/jibinwilson2004&color=000000&bgcolor=ffffff" alt="Buy Me A Coffee QR Code" />
 </div>
 
 ---
