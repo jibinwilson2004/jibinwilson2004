@@ -159,12 +159,12 @@
 
 <div align="center">
   <p>If you find my projects helpful or just want to support my work, feel free to buy me a coffee! ✨</p>
-  <a>
+  <a href="https://www.buymeacoffee.com/jibinwilson2004">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=jibinwilson2004&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" width="220" alt="Buy Me A Coffee Badge" />
   </a>
   <br><br>
-  <!-- Dynamic QR Code for Buy Me A Coffee link -->
-  <img src="https://drive.google.com/file/d/176fFpWqNmL-fknAwt5yJhpR4W66iQ9tz/view?usp=sharing" alt="Buy Me A Coffee QR Code" />
+  <!-- QR Code for Buy Me A Coffee link -->
+  <img src="https://drive.google.com/uc?export=view&id=176fFpWqNmL-fknAwt5yJhpR4W66iQ9tz" width="150" alt="Buy Me A Coffee QR Code" />
 </div>
 
 ---
