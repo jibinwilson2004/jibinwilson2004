@@ -9,11 +9,19 @@
   </a>
 </div>
 
-<!-- Visitor Count & Socials -->
+<!-- Trackers & Social Stats Section -->
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=jibinwilson2004&color=00F0FF&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Visitors" />
+  <!-- Visitor Tracker -->
+  <img src="https://komarev.com/ghpvc/?username=jibinwilson2004&color=00F0FF&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Visitors Tracker" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-00F0FF.svg?style=for-the-badge" alt="Maintained Badge" />
   <br><br>
+  <!-- GitHub Social Trackers -->
+  <a href="https://github.com/jibinwilson2004?tab=followers"><img src="https://img.shields.io/github/followers/jibinwilson2004?logo=github&style=social&label=Follow" alt="GitHub followers tracker"></a>
+  <a href="https://github.com/jibinwilson2004?tab=stars"><img src="https://img.shields.io/github/stars/jibinwilson2004?style=social" alt="GitHub stars tracker"></a>
+  <a href="https://github.com/jibinwilson2004?tab=repositories"><img src="https://img.shields.io/github/repos/jibinwilson2004?style=social&logo=github" alt="GitHub repos tracker"></a>
+  <br><br>
+  <!-- Connect With Me -->
   <a href="https://linkedin.com/in/jibin-wilson"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jibinwilson@ieee.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -32,7 +40,6 @@
 - 💻 Experienced in **Full-Stack Web Development** and **Workflow Automation**.
 - 🚀 Previously interned at **IIIT Kottayam** and **High Court of Kerala**.
 - 👑 Actively leading tech communities as Chair/Vice Chair for **IEEE SBCs** & Operations Lead for **IEDC**.
-- 🌟 Secured **8th Position (All India)** in GFG/IEEE YESS DSA Competition & **2nd Prize** in Paper Presentation.
 - 🌱 **Currently Learning:** Advanced Data Structures, Algorithms, and modern web frameworks.
 
 ---
@@ -67,6 +74,22 @@
 
 ---
 
+<!-- Certifications and Badges Section -->
+<h3 align="center">🏅 Certifications & Achievements Badges</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HackerRank-SQL_Intermediate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Badge" />
+  <img src="https://img.shields.io/badge/NPTEL-Java_Programming-003366?style=for-the-badge" alt="NPTEL Java Badge" />
+  <img src="https://img.shields.io/badge/NPTEL-Digital_Electronics-003366?style=for-the-badge" alt="NPTEL Electronics Badge" />
+  <img src="https://img.shields.io/badge/IEDC-Problem_Solving_%26_Ideation-FF9900?style=for-the-badge" alt="IEDC Problem Solving Badge" />
+  <img src="https://img.shields.io/badge/NSS-Active_Volunteer-0033A0?style=for-the-badge" alt="NSS Volunteer Badge" />
+  <br><br>
+  <p>🌟 <strong>8th Position (All India)</strong> in GFG/IEEE YESS DSA Competition</p>
+  <p>🏆 <strong>2nd Prize</strong> in Paper Presentation (IEEE MBITS)</p>
+</div>
+
+---
+
 <!-- Projects Section -->
 <h3 align="center">🚀 Featured Projects</h3>
 
@@ -96,33 +119,48 @@
 
 ---
 
-<!-- GitHub Trophies -->
-<h3 align="center">🏆 GitHub Trophies</h3>
+<!-- GitHub Trackers and Stats -->
+<h3 align="center">📊 Advanced GitHub Trackers & Stats</h3>
+
+<!-- Trophies Badge Tracker -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jibinwilson2004&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies Badge Tracker" />
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jibinwilson2004&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  <!-- General Stats Tracker -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jibinwilson2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats Tracker" width="48%" />
+  <!-- Streak Tracker -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibinwilson2004&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Tracker" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Top Languages Tracker -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibinwilson2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages Tracker" width="48%" />
+  <!-- Coding Activity / WakaTime Tracker -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jibinwilson2004&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Coding Activity Tracker" width="48%" />
+</div>
+
+<br>
+
+<!-- Visual Contribution Graph Tracker -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jibinwilson2004&bg_color=0D1117&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph Tracker" width="98%" />
 </div>
 
 ---
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats & Activity</h3>
+<!-- Support Me Section -->
+<h3 align="center">☕ Support Me</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jibinwilson2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibinwilson2004&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibinwilson2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jibinwilson2004&bg_color=0D1117&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="98%" />
+  <a href="https://www.buymeacoffee.com/jibinwilson2004">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=jibinwilson2004&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" width="220" alt="Buy Me A Coffee Badge" />
+  </a>
 </div>
 
 ---
