@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full-Stack+Web+Developer;Workflow+Automation+Enthusiast;Problem+Solver+&+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full-Stack+Web+Developer;Workflow+Automation+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
   </a>
 </div>
 
@@ -50,7 +50,7 @@
 <div align="center">
   <p><strong>Languages</strong></p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   
@@ -112,7 +112,7 @@
 - 🏢 **IoT and Web Development Intern** | *IIIT Kottayam, GYAAN Innovation Lab* (Jun 2025 – Jul 2025)
   - Developed a real-time cloud-based dashboard for continuous temperature data streaming in cold storage facilities.
 - 🏛️ **Web Development Intern** | *High Court of Kerala* (Jun 2024 – Jul 2024)
-  - Automated systems for Judges’ booking and travel arrangements to streamline administrative workflows.
+  - Automated systems for Judges' booking and travel arrangements to streamline administrative workflows.
 - 🎙️ **Technical Outreach & Volunteering**
   - Conducted 5+ technical sessions as a Speaker on Python, Java, and C Programming at NIT Calicut, IEDC MBITS, and RSET.
   - Active NSS Volunteer (2023-2025) and Student Coordinator for 3+ major hackathons.
@@ -141,7 +141,8 @@
 <div align="center">
   <!-- Top Languages Tracker -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibinwilson2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages Tracker" width="48%" />
-  <!-- Coding Activity / WakaTime Tracker -->
+  
+  <!-- Note: WakaTime requires setup. Replace with your WakaTime username if configured -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jibinwilson2004&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Coding Activity Tracker" width="48%" />
 </div>
 
@@ -159,9 +160,11 @@
 
 <div align="center">
   <p>If you find my projects helpful or just want to support my work, feel free to buy me a coffee! ✨</p>
-  <br><br>
-  <!-- QR Code for Buy Me A Coffee link -->
-  <img src="https://drive.google.com/uc?export=view&id=176fFpWqNmL-fknAwt5yJhpR4W66iQ9tz" width="150" alt="Buy Me A Coffee QR Code" />
+  <br>
+  <!-- Replace with your actual Buy Me a Coffee link and QR code -->
+  <a href="https://www.buymeacoffee.com/jibinwilson">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
+  </a>
 </div>
 
 ---
