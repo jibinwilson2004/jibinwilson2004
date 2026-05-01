@@ -1,4 +1,4 @@
-<!-- Header Section -->
+<img width="1229" height="504" alt="image" src="https://github.com/user-attachments/assets/126b3dd3-2fcf-4ae0-b752-44fb64b1a6ab" /><!-- Header Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jibin%20Wilson&fontSize=65&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20|%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Header Banner" />
 </div>
