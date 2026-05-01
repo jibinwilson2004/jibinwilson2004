@@ -97,10 +97,10 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **Chit Fund Management System** | Automated critical financial operations and bidding system for secure fund management. | `PHP`, `MySQL` | [🔗 Repo](https://github.com/jibinwilson2004) |
-| **IEEE SB MBITS Website** | Official live website digitalizing operations and showcasing events for IEEE MBITS. | `React.js` | [🔗 Live](https://github.com/jibinwilson2004) |
-| **ResQLink** | Low-cost landslide early warning and emergency alert system deployed in Poonjar. | `Embedded C`, `LoRaWAN` | [🔗 Repo](https://github.com/jibinwilson2004) |
-| **IrisNet50** | Custom image classification model using ResNet50 for alcohol detection via iris images (92% acc). | `Python`, `ResNet50` | [🔗 Repo](https://github.com/jibinwilson2004) |
+| **Chit Fund Management System** | Automated critical financial operations and bidding system for secure fund management. | `PHP`, `MySQL` | [🔗 Repo](https://github.com/jibinwilson2004/Chit-Fund-Management) |
+| **IEEE SB MBITS Website** | Official live website digitalizing operations and showcasing events for IEEE MBITS. | `React.js` | [🔗 Live](https://github.com/jibinwilson2004/IEEE-SB-MBITS) |
+| **ResQLink** | Low-cost landslide early warning and emergency alert system deployed in Poonjar. | `Embedded C`, `LoRaWAN` | [🔗 Repo](https://github.com/jibinwilson2004/ResQLink) |
+| **IrisNet50** | Custom image classification model using ResNet50 for alcohol detection via iris images (92% acc). | `Python`, `ResNet50` | [🔗 Repo](https://github.com/jibinwilson2004/IrisNet50) |
 
 </div>
 
@@ -124,47 +124,70 @@
 
 <!-- Trophies Badge Tracker -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jibinwilson2004&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies Badge Tracker" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jibinwilson2004&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies Badge Tracker" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- General Stats Tracker -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jibinwilson2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats Tracker" width="48%" />
-  <!-- Streak Tracker -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibinwilson2004&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Tracker" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Top Languages Tracker -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibinwilson2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages Tracker" width="48%" />
+  <!-- GitHub Stats Tracker - Fixed -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jibinwilson2004&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" alt="GitHub Stats Tracker" width="49%" />
   
-  <!-- Note: WakaTime requires setup. Replace with your WakaTime username if configured -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jibinwilson2004&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Coding Activity Tracker" width="48%" />
+  <!-- GitHub Streak Tracker - Fixed -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibinwilson2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak Tracker" width="49%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Top Languages Tracker - Fixed -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibinwilson2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&langs_count=8" alt="Top Languages Tracker" width="49%" />
+  
+  <!-- Coding Activity Tracker - Fixed (WakaTime needs setup) -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jibinwilson2004&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&layout=compact" alt="Coding Activity Tracker" width="49%" />
 </div>
 
 <br>
 
 <!-- Visual Contribution Graph Tracker -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jibinwilson2004&bg_color=0D1117&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph Tracker" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jibinwilson2004&bg_color=0D1117&color=00F0FF&line=bf91f3&point=00F0FF&area=true&hide_border=true" alt="Contribution Graph Tracker" width="98%" />
 </div>
+
+<br>
+
+<!-- Note for WakaTime -->
+<details align="center">
+  <summary>📌 Note about Coding Activity Tracker</summary>
+  <br>
+  <p>The Coding Activity Tracker requires <a href="https://wakatime.com">WakaTime</a> setup. If it shows "No data", sign up at WakaTime, install the extension in your IDE, and connect it to your GitHub. It will start showing your coding stats within 24 hours!</p>
+</details>
 
 ---
 
-<!-- Support Me Section -->
+<!-- Support Me Section - FIXED with QR Code -->
 <h3 align="center">☕ Support Me</h3>
 
 <div align="center">
   <p>If you find my projects helpful or just want to support my work, feel free to buy me a coffee! ✨</p>
   <br>
-  <!-- Replace with your actual Buy Me a Coffee link and QR code -->
-  <a href="https://www.buymeacoffee.com/jibinwilson">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
+  
+  <!-- OPTION 1: If your QR code is uploaded to Google Drive and SHARED PUBLICLY -->
+  <!-- Replace "YOUR_GOOGLE_DRIVE_FILE_ID" with your actual file ID -->
+  <img src="https://drive.google.com/uc?export=view&id=YOUR_GOOGLE_DRIVE_FILE_ID" width="150" alt="Buy Me A Coffee QR Code" />
+  
+  <!-- OPTION 2: If you uploaded QR code to GitHub repo (RECOMMENDED) -->
+  <!-- Create a folder called 'assets' in your repo, put QR code there, and uncomment below line -->
+  <!-- <img src="https://raw.githubusercontent.com/jibinwilson2004/jibinwilson2004/main/assets/bmc-qr.png" width="150" alt="Buy Me A Coffee QR Code" /> -->
+  
+  <!-- OPTION 3: Direct Buy Me a Coffee link (as backup) -->
+  <br><br>
+  <a href="https://buymeacoffee.com/jibinwilson">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
+  
+  <br><br>
+  <p><small>📱 Scan the QR code or click the button above to support my work ☕</small></p>
 </div>
 
 ---
@@ -175,4 +198,11 @@
 <div align="center">
   <em>"If you can't explain it simply, you don't understand it well enough."</em><br><br>
   <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="150" alt="Coding GIF" />
+</div>
+
+<br>
+
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
 </div>
