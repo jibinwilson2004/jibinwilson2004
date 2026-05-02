@@ -91,23 +91,6 @@ Computer Science Engineering student with a passion for building efficient, scal
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-### 🎖️ National & Institutional Recognitions
-
-| Achievement | Position/Status | Organization |
-| :--- | :---: | :--- |
-| GFG/IEEE YESS DSA Competition | **8th (All India)** | GeeksforGeeks & IEEE |
-| Paper Presentation | **2nd Prize** | IEEE MBITS |
-| SQL Intermediate Certification | **Certified** | HackerRank |
-| Java Programming | **Certified** | NPTEL |
-| Digital Electronics | **Certified** | NPTEL |
-| Problem Solving & Ideation | **Certified** | IEDC |
-
-</div>
-
 <br>
 
 <div align="center">
