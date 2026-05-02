@@ -105,30 +105,25 @@ Computer Science Engineering student with a passion for building efficient, scal
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity Calendar
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jibinwilson2004&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibinwilson2004&theme=react&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jibinwilson2004&bg_color=0D1117&color=00F0FF&line=00F0FF&point=00FF00&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibinwilson2004&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF" width="48%" alt="Top Languages" />
+  <!-- GitHub Contribution Calendar Heatmap -->
+  <img src="https://ghchart.rshah.org/jibinwilson2004" alt="GitHub Heatmap Calendar" width="100%" />
 </div>
 
-### 📅 Daily Activity Log
+<br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jibinwilson2004/jibinwilson2004/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jibinwilson2004/jibinwilson2004/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jibinwilson2004/jibinwilson2004/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jibinwilson2004&bg_color=0D1117&color=FFFFFF&line=00F0FF&point=00FF00&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <!-- GitHub Stats Summary -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jibinwilson2004&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&hide=issues" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibinwilson2004&theme=react&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="45%" alt="GitHub Streak" />
 </div>
 
 ---
