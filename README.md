@@ -1,208 +1,69 @@
-<!-- Header Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jibin%20Wilson&fontSize=65&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20|%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Header Banner" />
-</div>
+# Jibin Wilson
+**Full-Stack Developer · Computer Science Engineering Student · Workflow Automation Enthusiast**
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full-Stack+Web+Developer;Workflow+Automation+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
-  </a>
-</div>
+### Professional Profile
+A motivated engineering student specializing in full-stack web development and workflow automation. I build efficient, scalable applications while contributing to technical communities and leading project-driven initiatives.
 
-<!-- Trackers & Social Stats Section -->
-<div align="center">
-  <br>
-  <!-- Visitor Tracker -->
-  <img src="https://komarev.com/ghpvc/?username=jibinwilson2004&color=00F0FF&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Visitors Tracker" />
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-00F0FF.svg?style=for-the-badge" alt="Maintained Badge" />
-  <br><br>
-  <!-- GitHub Social Trackers -->
-  <a href="https://github.com/jibinwilson2004?tab=followers"><img src="https://img.shields.io/github/followers/jibinwilson2004?logo=github&style=social&label=Follow" alt="GitHub followers tracker"></a>
-  <a href="https://github.com/jibinwilson2004?tab=stars"><img src="https://img.shields.io/github/stars/jibinwilson2004?style=social" alt="GitHub stars tracker"></a>
-  <a href="https://github.com/jibinwilson2004?tab=repositories"><img src="https://img.shields.io/github/repos/jibinwilson2004?style=social&logo=github" alt="GitHub repos tracker"></a>
-  <br><br>
-  <!-- Connect With Me -->
-  <a href="https://linkedin.com/in/jibin-wilson"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:jibinwilson@ieee.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" /></a>
-</div>
+### Key Strengths
+- Practical experience in full-stack development, cloud dashboards, and automation workflows.
+- Strong foundation in core computer science concepts, data structures, and modern web frameworks.
+- Proven ability to collaborate with cross-functional teams and deliver high-impact solutions.
+- Active leader in student organizations, driving engagement and technical outreach.
 
 ---
 
-<!-- About Me Section -->
-<h3 align="center">👋 About Me</h3>
-
-<div align="center">
-  <p><em>Passionate about problem-solving and applying technical skills to build efficient, scalable, and user-centric software applications.</em></p>
-</div>
-
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering** (8.7 CGPA) at **MBITS Kothamangalam**.
-- 💻 Experienced in **Full-Stack Web Development** and **Workflow Automation**.
-- 🚀 Previously interned at **IIIT Kottayam** and **High Court of Kerala**.
-- 👑 Actively leading tech communities as Chair/Vice Chair for **IEEE SBCs** & Operations Lead for **IEDC**.
-- 🌱 **Currently Learning:** Advanced Data Structures, Algorithms, and modern web frameworks.
+## About Me
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **MBITS Kothamangalam**
+- 📈 Current GPA: **8.7 CGPA**
+- 💼 Interned at **IIIT Kottayam (GYAAN Innovation Lab)** and **High Court of Kerala**
+- 🤝 Leadership roles in **IEEE Student Branch Chapters** and **IEDC**
+- 📚 Currently learning **advanced data structures, algorithms, and modern web frameworks**
 
 ---
 
-<!-- Tech Stack Section -->
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
-
-<div align="center">
-  <p><strong>Languages</strong></p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  
-  <p><strong>Web & Frameworks</strong></p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-
-  <p><strong>Databases, CS Core & Tools</strong></p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</div>
+## Core Skills
+- **Languages:** Python · Java · JavaScript · C
+- **Frontend & Web:** React · HTML5 · CSS3 · WordPress
+- **Backend & Frameworks:** Django · PHP · REST APIs
+- **Databases:** MySQL · PostgreSQL · MongoDB
+- **Tools:** Git · GitHub · Postman · n8n · Power BI
+- **Other:** Embedded systems · IoT · workflow automation
 
 ---
 
-<!-- Certifications and Badges Section -->
-<h3 align="center">🏅 Certifications & Achievements Badges</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HackerRank-SQL_Intermediate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Badge" />
-  <img src="https://img.shields.io/badge/NPTEL-Java_Programming-003366?style=for-the-badge" alt="NPTEL Java Badge" />
-  <img src="https://img.shields.io/badge/NPTEL-Digital_Electronics-003366?style=for-the-badge" alt="NPTEL Electronics Badge" />
-  <img src="https://img.shields.io/badge/IEDC-Problem_Solving_%26_Ideation-FF9900?style=for-the-badge" alt="IEDC Problem Solving Badge" />
-  <img src="https://img.shields.io/badge/NSS-Active_Volunteer-0033A0?style=for-the-badge" alt="NSS Volunteer Badge" />
-  <br><br>
-  <p>🌟 <strong>8th Position (All India)</strong> in GFG/IEEE YESS DSA Competition</p>
-  <p>🏆 <strong>2nd Prize</strong> in Paper Presentation (IEEE MBITS)</p>
-</div>
+## Featured Projects
+- **Chit Fund Management System** — Automated financial operations and bidding workflows for secure fund management. *(PHP, MySQL)*
+- **IEEE SB MBITS Website** — Developed a community portal to showcase events and simplify member interactions. *(React.js)*
+- **ResQLink** — Built a landslide early warning and emergency alert system using Embedded C and LoRaWAN. *(IoT, Embedded C)*
+- **IrisNet50** — Created an alcohol detection classifier using ResNet50 with custom data processing and model training. *(Python, Deep Learning)*
 
 ---
 
-<!-- Projects Section -->
-<h3 align="center">🚀 Featured Projects</h3>
+## Experience
+- **IoT and Web Development Intern** | IIIT Kottayam, GYAAN Innovation Lab *(Jun 2025 – Jul 2025)*
+  - Delivered a real-time cloud dashboard for continuous temperature monitoring in cold storage.
 
-<div align="center">
+- **Web Development Intern** | High Court of Kerala *(Jun 2024 – Jul 2024)*
+  - Automated administrative workflows for judges' travel and booking arrangements.
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **Chit Fund Management System** | Automated critical financial operations and bidding system for secure fund management. | `PHP`, `MySQL` | [🔗 Repo](https://github.com/jibinwilson2004/Chit-Fund-Management) |
-| **IEEE SB MBITS Website** | Official live website digitalizing operations and showcasing events for IEEE MBITS. | `React.js` | [🔗 Live](https://github.com/jibinwilson2004/IEEE-SB-MBITS) |
-| **ResQLink** | Low-cost landslide early warning and emergency alert system deployed in Poonjar. | `Embedded C`, `LoRaWAN` | [🔗 Repo](https://github.com/jibinwilson2004/ResQLink) |
-| **IrisNet50** | Custom image classification model using ResNet50 for alcohol detection via iris images (92% acc). | `Python`, `ResNet50` | [🔗 Repo](https://github.com/jibinwilson2004/IrisNet50) |
-
-</div>
+- **Technical Outreach & Leadership**
+  - Delivered sessions on Python, Java, and C programming at NIT Calicut, IEDC MBITS, and RSET.
+  - Active NSS volunteer and student coordinator for multiple hackathons.
 
 ---
 
-<!-- Experience Section -->
-<h3 align="center">💼 Work Experience & Community Leadership</h3>
-
-- 🏢 **IoT and Web Development Intern** | *IIIT Kottayam, GYAAN Innovation Lab* (Jun 2025 – Jul 2025)
-  - Developed a real-time cloud-based dashboard for continuous temperature data streaming in cold storage facilities.
-- 🏛️ **Web Development Intern** | *High Court of Kerala* (Jun 2024 – Jul 2024)
-  - Automated systems for Judges' booking and travel arrangements to streamline administrative workflows.
-- 🎙️ **Technical Outreach & Volunteering**
-  - Conducted 5+ technical sessions as a Speaker on Python, Java, and C Programming at NIT Calicut, IEDC MBITS, and RSET.
-  - Active NSS Volunteer (2023-2025) and Student Coordinator for 3+ major hackathons.
+## Achievements
+- 🏅 **8th Place (All India)** in GFG/IEEE YESS DSA Competition
+- 🏆 **2nd Prize** in Paper Presentation at IEEE MBITS
 
 ---
 
-<!-- GitHub Trackers and Stats -->
-<h3 align="center">📊 Advanced GitHub Trackers & Stats</h3>
-
-<!-- Trophies Badge Tracker -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jibinwilson2004&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies Badge Tracker" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- GitHub Stats Tracker - Fixed -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jibinwilson2004&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" alt="GitHub Stats Tracker" width="49%" />
-  
-  <!-- GitHub Streak Tracker - Fixed -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibinwilson2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak Tracker" width="49%" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Top Languages Tracker - Fixed -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibinwilson2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&langs_count=8" alt="Top Languages Tracker" width="49%" />
-  
-  <!-- Coding Activity Tracker - Fixed (WakaTime needs setup) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jibinwilson2004&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&layout=compact" alt="Coding Activity Tracker" width="49%" />
-</div>
-
-<br>
-
-<!-- Visual Contribution Graph Tracker -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jibinwilson2004&bg_color=0D1117&color=00F0FF&line=bf91f3&point=00F0FF&area=true&hide_border=true" alt="Contribution Graph Tracker" width="98%" />
-</div>
-
-<br>
-
-<!-- Note for WakaTime -->
-<details align="center">
-  <summary>📌 Note about Coding Activity Tracker</summary>
-  <br>
-  <p>The Coding Activity Tracker requires <a href="https://wakatime.com">WakaTime</a> setup. If it shows "No data", sign up at WakaTime, install the extension in your IDE, and connect it to your GitHub. It will start showing your coding stats within 24 hours!</p>
-</details>
+## Connect with Me
+- GitHub: [github.com/jibinwilson2004](https://github.com/jibinwilson2004)
+- LinkedIn: [linkedin.com/in/jibin-wilson](https://linkedin.com/in/jibin-wilson)
+- Email: [jibinwilson@ieee.org](mailto:jibinwilson@ieee.org)
 
 ---
 
-<!-- Support Me Section - FIXED with QR Code -->
-<h3 align="center">☕ Support Me</h3>
-
-<div align="center">
-  <p>If you find my projects helpful or just want to support my work, feel free to buy me a coffee! ✨</p>
-  <br>
-  
-  <!-- OPTION 1: If your QR code is uploaded to Google Drive and SHARED PUBLICLY -->
-  <!-- Replace "YOUR_GOOGLE_DRIVE_FILE_ID" with your actual file ID -->
-  <img src="https://drive.google.com/uc?export=view&id=YOUR_GOOGLE_DRIVE_FILE_ID" width="150" alt="Buy Me A Coffee QR Code" />
-  
-  <!-- OPTION 2: If you uploaded QR code to GitHub repo (RECOMMENDED) -->
-  <!-- Create a folder called 'assets' in your repo, put QR code there, and uncomment below line -->
-  <!-- <img src="https://raw.githubusercontent.com/jibinwilson2004/jibinwilson2004/main/assets/bmc-qr.png" width="150" alt="Buy Me A Coffee QR Code" /> -->
-  
-  <!-- OPTION 3: Direct Buy Me a Coffee link (as backup) -->
-  <br><br>
-  <a href="https://buymeacoffee.com/jibinwilson">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  
-  <br><br>
-  <p><small>📱 Scan the QR code or click the button above to support my work ☕</small></p>
-</div>
-
----
-
-<!-- Footer Section -->
-<h3 align="center">⚡ Fun Fact</h3>
-
-<div align="center">
-  <em>"If you can't explain it simply, you don't understand it well enough."</em><br><br>
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="150" alt="Coding GIF" />
-</div>
-
-<br>
-
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
-</div>
+## Professional Note
+I focus on building reliable solutions that improve workflows, simplify operations, and deliver measurable outcomes. If you'd like to collaborate on web development, automation, or data-driven projects, let's connect.
