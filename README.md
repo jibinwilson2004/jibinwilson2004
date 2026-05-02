@@ -1,69 +1,135 @@
-# Jibin Wilson
-**Full-Stack Developer · Computer Science Engineering Student · Workflow Automation Enthusiast**
+<!--
+  Professional GitHub Profile README - Jibin Wilson
+  A clean, modern layout highlighting technical expertise and leadership.
+-->
 
-### Professional Profile
-A motivated engineering student specializing in full-stack web development and workflow automation. I build efficient, scalable applications while contributing to technical communities and leading project-driven initiatives.
+<!-- Header Section with Title Role -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0055FF&height=200&section=header&text=Jibin%20Wilson&fontSize=55&fontAlignY=35&desc=B.Tech%20CSE%20|%20Full-Stack%20Developer%20|%20Tech%20Leader&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header" />
+</div>
 
-### Key Strengths
-- Practical experience in full-stack development, cloud dashboards, and automation workflows.
-- Strong foundation in core computer science concepts, data structures, and modern web frameworks.
-- Proven ability to collaborate with cross-functional teams and deliver high-impact solutions.
-- Active leader in student organizations, driving engagement and technical outreach.
+<!-- Typing Effect: Professional Tagline -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Full-Stack+Web+Developer;Workflow+Automation+Expert;Community+Leader+%26+Mentor" alt="Typing Animation" />
+</div>
 
----
-
-## About Me
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **MBITS Kothamangalam**
-- 📈 Current GPA: **8.7 CGPA**
-- 💼 Interned at **IIIT Kottayam (GYAAN Innovation Lab)** and **High Court of Kerala**
-- 🤝 Leadership roles in **IEEE Student Branch Chapters** and **IEDC**
-- 📚 Currently learning **advanced data structures, algorithms, and modern web frameworks**
-
----
-
-## Core Skills
-- **Languages:** Python · Java · JavaScript · C
-- **Frontend & Web:** React · HTML5 · CSS3 · WordPress
-- **Backend & Frameworks:** Django · PHP · REST APIs
-- **Databases:** MySQL · PostgreSQL · MongoDB
-- **Tools:** Git · GitHub · Postman · n8n · Power BI
-- **Other:** Embedded systems · IoT · workflow automation
+<!-- Badge Row: Profile Views + Maintained -->
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=jibinwilson2004&color=00F0FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Status-Active-00F0FF?style=flat-square" alt="Active Status" />
+  <br><br>
+</div>
 
 ---
 
-## Featured Projects
-- **Chit Fund Management System** — Automated financial operations and bidding workflows for secure fund management. *(PHP, MySQL)*
-- **IEEE SB MBITS Website** — Developed a community portal to showcase events and simplify member interactions. *(React.js)*
-- **ResQLink** — Built a landslide early warning and emergency alert system using Embedded C and LoRaWAN. *(IoT, Embedded C)*
-- **IrisNet50** — Created an alcohol detection classifier using ResNet50 with custom data processing and model training. *(Python, Deep Learning)*
+## 👨‍💻 About Me
+
+Computer Science Engineering student with a passion for building efficient, scalable software and leading technical communities. I combine strong full-stack development skills with workflow automation to deliver impactful solutions.
+
+- 🎓 **Education:** B.Tech in Computer Science & Engineering (CGPA: 8.7/10) — MBITS Kothamangalam
+- 💼 **Experience:** Web Development Intern @ High Court of Kerala | IoT Intern @ IIIT Kottayam
+- 🚀 **Core Competencies:** Full-Stack Development, Database Design, Process Automation, Algorithmic Problem-Solving
+- 👑 **Leadership:** Chair/IEEE SB MBITS | Vice Chair/IEEE PES | Operations Lead/IEDC
+- 🌱 **Current Focus:** Advanced DSA, System Design, Cloud Architecture
 
 ---
 
-## Experience
-- **IoT and Web Development Intern** | IIIT Kottayam, GYAAN Innovation Lab *(Jun 2025 – Jul 2025)*
-  - Delivered a real-time cloud dashboard for continuous temperature monitoring in cold storage.
+## 🛠️ Technical Proficiency
 
-- **Web Development Intern** | High Court of Kerala *(Jun 2024 – Jul 2024)*
-  - Automated administrative workflows for judges' travel and booking arrangements.
+<div align="center">
 
-- **Technical Outreach & Leadership**
-  - Delivered sessions on Python, Java, and C programming at NIT Calicut, IEDC MBITS, and RSET.
-  - Active NSS volunteer and student coordinator for multiple hackathons.
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+
+### Frontend & Frameworks
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+
+### Databases & Tools
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" />
+</div>
 
 ---
 
-## Achievements
-- 🏅 **8th Place (All India)** in GFG/IEEE YESS DSA Competition
-- 🏆 **2nd Prize** in Paper Presentation at IEEE MBITS
+## 📌 Key Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Chit Fund Management System** | Automated financial operations and bidding for secure fund management with real-time tracking. | `PHP`, `MySQL`, `Bootstrap` |
+| **IEEE SB MBITS Website** | Official institutional website digitizing operations, event showcases, and member management. | `React.js`, `Node.js`, `MongoDB` |
+| **ResQLink** | Low-cost IoT-based landslide early warning system with LoRaWAN communication and SMS alerts. | `Embedded C`, `LoRaWAN`, `Python` |
+| **IrisNet50** | Deep learning model (ResNet50) for alcohol detection via iris images achieving 92% accuracy. | `Python`, `TensorFlow`, `OpenCV` |
 
 ---
 
-## Connect with Me
-- GitHub: [github.com/jibinwilson2004](https://github.com/jibinwilson2004)
-- LinkedIn: [linkedin.com/in/jibin-wilson](https://linkedin.com/in/jibin-wilson)
-- Email: [jibinwilson@ieee.org](mailto:jibinwilson@ieee.org)
+## 💼 Experience & Leadership
+
+- **IoT & Web Development Intern** @ *IIIT Kottayam (GYAAN Innovation Lab)* | Jun 2025 – Jul 2025  
+  *Built a real-time cloud dashboard for temperature monitoring in cold storage facilities.*
+
+- **Web Development Intern** @ *High Court of Kerala* | Jun 2024 – Jul 2024  
+  *Automated judges' booking and travel workflows, reducing administrative overhead by 40%.*
+
+- **Technical Speaker & Mentor**  
+  *Conducted 5+ sessions on Python, Java, and C at NIT Calicut, IEDC MBITS, and RSET.*
+
+- **Active Volunteer** @ *NSS* (2023-2025) | **Student Coordinator** for 3+ major hackathons.
 
 ---
 
-## Professional Note
-I focus on building reliable solutions that improve workflows, simplify operations, and deliver measurable outcomes. If you'd like to collaborate on web development, automation, or data-driven projects, let's connect.
+## 🏅 Certifications & Recognition
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HackerRank-SQL_Intermediate-00EA64?style=flat-square&logo=hackerrank" alt="SQL Badge" />
+  <img src="https://img.shields.io/badge/NPTEL-Java_Programming-003366?style=flat-square" alt="NPTEL Java" />
+  <img src="https://img.shields.io/badge/NPTEL-Digital_Electronics-003366?style=flat-square" alt="NPTEL DE" />
+  <img src="https://img.shields.io/badge/IEDC-Problem_Solving-FF9900?style=flat-square" alt="IEDC" />
+  <br><br>
+  🥇 **8th Position (All India)** — GFG/IEEE YESS DSA Competition<br>
+  🥈 **2nd Prize** — Paper Presentation, IEEE MBITS
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jibinwilson2004&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" width="48%" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibinwilson2004&theme=react&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="48%" alt="Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibinwilson2004&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF" width="48%" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jibinwilson2004&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&hide_border=true" width="48%" alt="Activity Graph" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/jibin-wilson"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jibinwilson@ieee.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/jibinwilson2004"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,100:00F0FF&height=120&section=footer" alt="Footer" />
+</div>
