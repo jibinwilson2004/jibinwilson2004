@@ -91,39 +91,35 @@ Computer Science Engineering student with a passion for building efficient, scal
 
 ---
 
-## 🏅 Certifications & Recognition
+## 🏆 Achievements & Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HackerRank-SQL_Intermediate-00EA64?style=flat-square&logo=hackerrank" alt="SQL Badge" />
-  <img src="https://img.shields.io/badge/NPTEL-Java_Programming-003366?style=flat-square" alt="NPTEL Java" />
-  <img src="https://img.shields.io/badge/NPTEL-Digital_Electronics-003366?style=flat-square" alt="NPTEL DE" />
-  <img src="https://img.shields.io/badge/IEDC-Problem_Solving-FF9900?style=flat-square" alt="IEDC" />
-  <br><br>
-  🥇 **8th Position (All India)** — GFG/IEEE YESS DSA Competition<br>
-  🥈 **2nd Prize** — Paper Presentation, IEEE MBITS
+
+### 🎖️ National & Institutional Recognitions
+
+| Achievement | Position/Status | Organization |
+| :--- | :---: | :--- |
+| GFG/IEEE YESS DSA Competition | **8th (All India)** | GeeksforGeeks & IEEE |
+| Paper Presentation | **2nd Prize** | IEEE MBITS |
+| SQL Intermediate Certification | **Certified** | HackerRank |
+| Java Programming | **Certified** | NPTEL |
+| Digital Electronics | **Certified** | NPTEL |
+| Problem Solving & Ideation | **Certified** | IEDC |
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jibinwilson2004&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="90%" />
 </div>
 
 ---
 
-## 📊 GitHub Activity Calendar
+## 📅 GitHub Activity Calendar
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jibinwilson2004&bg_color=0D1117&color=00F0FF&line=00F0FF&point=00FF00&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- GitHub Contribution Calendar Heatmap -->
   <img src="https://ghchart.rshah.org/jibinwilson2004" alt="GitHub Heatmap Calendar" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- GitHub Stats Summary -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jibinwilson2004&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&hide=issues" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibinwilson2004&theme=react&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="45%" alt="GitHub Streak" />
 </div>
 
 ---
